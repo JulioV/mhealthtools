@@ -30,7 +30,6 @@ Imports:
     rlang,
     magrittr,
     keras,
-    fractal,
     statcomp
 Remotes: cran/statcomp
 URL: https://github.com/Sage-Bionetworks/mHealthTools
